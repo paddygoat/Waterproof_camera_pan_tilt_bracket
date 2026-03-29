@@ -42,7 +42,7 @@ Hardware
 Most components are 3D printed in SLA resin (standard PLA is also used) for under $60.
 
 <p align="center">
-  <img src="https://cdn.hackaday.io/images/7160411769087915612.png" width="600" alt="Pan Tilt Mechanism Diagram">
+  <img src="https://content.instructables.com/FJP/JEEN/MN97SVMS/FJPJEENMN97SVMS.jpg" width="600" alt="CAD Diagram">
 </p>
 
     CAD Files: Available on GitHub.
