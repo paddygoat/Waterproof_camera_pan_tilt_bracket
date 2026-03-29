@@ -1,9 +1,11 @@
 Waterproof Raspberry Pi Camera Pan-Tilt Mechanism
 
-<img src="https://cdn.hackaday.io/images/1437081774818601577.JPG" width="600" alt="Pan Tilt Mechanism">
-
 This project features a fully weather-proof pan and tilt camera bracket controlled by Bowden cables, specifically designed for MIPI cameras like those used with the Raspberry Pi.
 Overview
+
+<p align="center">
+  <img src="https://cdn.hackaday.io/images/1437081774818601577.JPG" width="600" alt="Pan Tilt Mechanism">
+</p>
 
 Traditional pan-tilt systems often have motors attached directly to moving parts, making weather-proofing difficult and expensive. This design moves the electric actuators remotely under a weather-proof canopy or enclosure, reducing both complexity and cost.
 Key Features
