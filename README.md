@@ -91,4 +91,4 @@ Assembly Instructions
 
     To ensure a 100% waterproof seal, use a rubber O-ring and fill the inside of the gland with epoxy resin.
 
-Project sponsored by PCBWay. https://www.pcbway.com/
+Project sponsored by PCBWay. https://www.pcbway.com/. Use these guys to get high quality parts for this project.
